@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 import MuliRegular from 'fonts/Muli-Regular.woff'
-import MuliBlack from 'fonts/Mulu-Black.woff'
+import MuliBlack from 'fonts/Muli-Black.woff'
 
 export const colors = {
     white: "#fff",
